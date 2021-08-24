@@ -1,2 +1,2 @@
 # theawesometestdatapack
-My first datapack for Minecraft Java. The is mostly a test. Have fun :)
+Pretty easy to use. Just drop theawesometestdatapack.zip in to your datapacks folder for you world. Play world as usual. :)
